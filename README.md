@@ -1,1 +1,1 @@
-# Paddle-Battle. Newest Version: 0.2.0
+# Paddle-Battle. Newest Version: 0.2.1
